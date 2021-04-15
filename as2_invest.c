@@ -1,4 +1,4 @@
---Yuanqi Xue
+//Yuanqi Xue
 #include <stdio.h>
 
 int main(void)
